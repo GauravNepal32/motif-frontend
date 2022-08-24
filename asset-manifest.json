@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e09ac277.css",
+    "main.js": "/react-gh-pages/static/js/main.720c3a9a.js",
+    "static/media/about-us.jpg": "/react-gh-pages/static/media/about-us.11acc2d4d98c0c04f715.jpg",
+    "static/media/search.jpg": "/react-gh-pages/static/media/search.6fde9e754e61278586db.jpg",
+    "static/media/contact.jpg": "/react-gh-pages/static/media/contact.b35887a2927e4f7d115e.jpg",
+    "static/media/landing2.png": "/react-gh-pages/static/media/landing2.28c9023b912773f85423.png",
+    "static/media/blog.jpeg": "/react-gh-pages/static/media/blog.74ace7091455492b39a7.jpeg",
+    "static/media/ceo.png": "/react-gh-pages/static/media/ceo.2716e34954eee534c550.png",
+    "static/media/43.png": "/react-gh-pages/static/media/43.3967b498e2cf5f45452f.png",
+    "static/media/toefls.jpeg": "/react-gh-pages/static/media/toefls.7f65a8b0e2a1df32d69c.jpeg",
+    "static/media/bond.png": "/react-gh-pages/static/media/bond.5b3ad838a3b1465839ce.png",
+    "static/media/slick.svg": "/react-gh-pages/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-gh-pages/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-gh-pages/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/slick.woff": "/react-gh-pages/static/media/slick.295183786cd8a1389865.woff",
+    "main.e09ac277.css.map": "/react-gh-pages/static/css/main.e09ac277.css.map",
+    "main.720c3a9a.js.map": "/react-gh-pages/static/js/main.720c3a9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09ac277.css",
+    "static/js/main.720c3a9a.js"
+  ]
+}
