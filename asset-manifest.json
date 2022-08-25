@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/motif-frontend/static/css/main.de330471.css",
-    "main.js": "/motif-frontend/static/js/main.cb6a59a6.js",
-    "static/media/about-us.jpg": "/motif-frontend/static/media/about-us.11acc2d4d98c0c04f715.jpg",
-    "static/media/search.jpg": "/motif-frontend/static/media/search.6fde9e754e61278586db.jpg",
-    "static/media/contact.jpg": "/motif-frontend/static/media/contact.b35887a2927e4f7d115e.jpg",
-    "static/media/landing2.png": "/motif-frontend/static/media/landing2.28c9023b912773f85423.png",
-    "static/media/blog.jpeg": "/motif-frontend/static/media/blog.74ace7091455492b39a7.jpeg",
-    "static/media/ceo.png": "/motif-frontend/static/media/ceo.2716e34954eee534c550.png",
-    "static/media/43.png": "/motif-frontend/static/media/43.3967b498e2cf5f45452f.png",
-    "static/media/toefls.jpeg": "/motif-frontend/static/media/toefls.7f65a8b0e2a1df32d69c.jpeg",
-    "static/media/bond.png": "/motif-frontend/static/media/bond.5b3ad838a3b1465839ce.png",
-    "static/media/slick.svg": "/motif-frontend/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/motif-frontend/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/motif-frontend/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "/motif-frontend/index.html",
-    "static/media/slick.woff": "/motif-frontend/static/media/slick.295183786cd8a1389865.woff",
-    "main.de330471.css.map": "/motif-frontend/static/css/main.de330471.css.map",
-    "main.cb6a59a6.js.map": "/motif-frontend/static/js/main.cb6a59a6.js.map"
+    "main.css": "/static/css/main.388e9b19.css",
+    "main.js": "/static/js/main.812d6434.js",
+    "static/media/about-us.jpg": "/static/media/about-us.11acc2d4d98c0c04f715.jpg",
+    "static/media/search.jpg": "/static/media/search.6fde9e754e61278586db.jpg",
+    "static/media/contact.jpg": "/static/media/contact.b35887a2927e4f7d115e.jpg",
+    "static/media/landing2.png": "/static/media/landing2.28c9023b912773f85423.png",
+    "static/media/blog.jpeg": "/static/media/blog.74ace7091455492b39a7.jpeg",
+    "static/media/ceo.png": "/static/media/ceo.2716e34954eee534c550.png",
+    "static/media/43.png": "/static/media/43.3967b498e2cf5f45452f.png",
+    "static/media/toefls.jpeg": "/static/media/toefls.7f65a8b0e2a1df32d69c.jpeg",
+    "static/media/bond.png": "/static/media/bond.5b3ad838a3b1465839ce.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.388e9b19.css.map": "/static/css/main.388e9b19.css.map",
+    "main.812d6434.js.map": "/static/js/main.812d6434.js.map"
   },
   "entrypoints": [
-    "static/css/main.de330471.css",
-    "static/js/main.cb6a59a6.js"
+    "static/css/main.388e9b19.css",
+    "static/js/main.812d6434.js"
   ]
 }
