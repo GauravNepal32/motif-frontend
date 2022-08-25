@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/motif-frontend/static/css/main.de330471.css",
-    "main.js": "/motif-frontend/static/js/main.ca103c1b.js",
+    "main.js": "/motif-frontend/static/js/main.5ca5a011.js",
     "static/media/about-us.jpg": "/motif-frontend/static/media/about-us.11acc2d4d98c0c04f715.jpg",
     "static/media/search.jpg": "/motif-frontend/static/media/search.6fde9e754e61278586db.jpg",
     "static/media/contact.jpg": "/motif-frontend/static/media/contact.b35887a2927e4f7d115e.jpg",
@@ -17,10 +17,10 @@
     "index.html": "/motif-frontend/index.html",
     "static/media/slick.woff": "/motif-frontend/static/media/slick.295183786cd8a1389865.woff",
     "main.de330471.css.map": "/motif-frontend/static/css/main.de330471.css.map",
-    "main.ca103c1b.js.map": "/motif-frontend/static/js/main.ca103c1b.js.map"
+    "main.5ca5a011.js.map": "/motif-frontend/static/js/main.5ca5a011.js.map"
   },
   "entrypoints": [
     "static/css/main.de330471.css",
-    "static/js/main.ca103c1b.js"
+    "static/js/main.5ca5a011.js"
   ]
 }
